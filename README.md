@@ -64,7 +64,7 @@ In deep learning, a convolutional neural network (CNN, or ConvNet) is a class of
 To See the Training and Testing python file follow this link: https://github.com/Rohit738767/Face-Emotion-Detection03/blob/main/Face%20Emotion%20Recognition%20.ipynb
 # 3 Using ResNet50
  ResNet50 is a variant of ResNet model which has 48 Convolution layers along with 1 MaxPool and 1 Average Pool layer. It has 3.8 x 10^9 Floating points operations. It is a widely used ResNet model and we have explored ResNet50 architecture in depth.ResNet-50 is a convolutional neural network that is 50 layers deep. You can load a pretrained version of the network trained on more than a million images from the ImageNet database [1]. The pretrained network can classify images into 1000 object categories, such as keyboard, mouse, pencil, and many animals
-# Loss Acuracy plot using Resnet 0
+# Loss Acuracy plot using Resnet 50
 ![train](https://user-images.githubusercontent.com/86117684/126875075-3423dcc7-8b5c-401a-be7f-9802dd39f774.png)
 ![LOss](https://user-images.githubusercontent.com/86117684/126875084-faf59ecb-d7ac-4bdc-a9bc-fdc20a9a9ddb.png)
 
